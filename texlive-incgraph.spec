@@ -1,11 +1,11 @@
-# revision 27038
+# revision 27841
 # category Package
 # catalog-ctan /macros/latex/contrib/incgraph
-# catalog-date 2012-07-06 12:27:41 +0200
+# catalog-date 2012-09-28 15:59:23 +0200
 # catalog-license lppl1.3
-# catalog-version 1.02
+# catalog-version 1.10
 Name:		texlive-incgraph
-Version:	1.02
+Version:	1.10
 Release:	1
 Summary:	Sophisticated graphics inclusion in a PDF document
 Group:		Publishing
