@@ -1,11 +1,11 @@
-# revision 27841
+# revision 27038
 # category Package
 # catalog-ctan /macros/latex/contrib/incgraph
-# catalog-date 2012-09-28 15:59:23 +0200
+# catalog-date 2012-07-06 12:27:41 +0200
 # catalog-license lppl1.3
-# catalog-version 1.10
+# catalog-version 1.02
 Name:		texlive-incgraph
-Version:	1.10
+Version:	1.02
 Release:	1
 Summary:	Sophisticated graphics inclusion in a PDF document
 Group:		Publishing
@@ -62,3 +62,11 @@ has basic macros and a 'convenience' user interface that wraps
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Aug 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.02-1
++ Revision: 813580
+- Import texlive-incgraph
+- Import texlive-incgraph
+
