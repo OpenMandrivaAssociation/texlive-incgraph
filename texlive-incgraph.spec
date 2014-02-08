@@ -6,7 +6,7 @@
 # catalog-version 1.02
 Name:		texlive-incgraph
 Version:	1.02
-Release:	1
+Release:	2
 Summary:	Sophisticated graphics inclusion in a PDF document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/incgraph
