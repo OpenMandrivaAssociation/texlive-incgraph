@@ -5,8 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version 1.11
 Name:		texlive-incgraph
-Version:	1.11
-Release:	9
+Version:	1.12
+Release:	1
 Summary:	Sophisticated graphics inclusion in a PDF document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/incgraph
