@@ -1,6 +1,6 @@
 Name:		texlive-incgraph
 Version:	60810
-Release:	1
+Release:	2
 Summary:	Sophisticated graphics inclusion in a PDF document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/incgraph
