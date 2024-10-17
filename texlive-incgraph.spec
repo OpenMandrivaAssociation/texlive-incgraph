@@ -3,7 +3,7 @@ Version:	70635
 Release:	1
 Summary:	Sophisticated graphics inclusion in a PDF document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/incgraph
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/incgraph
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/incgraph.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/incgraph.doc.r%{version}.tar.xz
